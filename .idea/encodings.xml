@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebRoot/01/JSÁ─╗¨┤í╔¤.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/01/datatype01.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/01/datatype02.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/01/variables.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/02/JSÁ─╗¨┤íÍð.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/02/control01.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/02/control02.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/02/count.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/02/other.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/03_function/eval.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/03_function/function01.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/03_function/function02.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/03_function/function03.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/03_function/function04.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/03_function/function05.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/04_class/class01.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/04_class/class02_map.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/05_prototype/JS©▀╝Â└Ó¤┬.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/05_prototype/class01prototype.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/06_extend/extend.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/06_extend/mixin.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/06_extend/╝»│╔║═¥█║¤.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/07_interface/interface01.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/07_interface/interface02.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/07_interface/interface03.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/08_private/private01.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/08_private/private02.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/08_private/private03.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/08_private/static.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/09_singleton/singleton01.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/10_chain/chain01.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/10_chain/chain02.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/10_chain/jquery.js" charset="GBK" />
+  </component>
+</project>

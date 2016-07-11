@@ -1,0 +1,14 @@
+1.¼Ì³Ð
+2.²ôÔªÀà-->¾ÛºÏ
+
+function MyObject(element) {
+    this.elm = element;
+
+    element.addEventListener('click', this.onClick.bind(this), false);
+};
+
+MyObject.prototype.onClick = function(e) {
+     var t=this;  //do something with [t]...
+    //without bind the context of this function wouldn't be a MyObject
+    //instance as you would normally expect.
+};
